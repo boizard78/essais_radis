@@ -1,3 +1,4 @@
 radis[full]
 jupyter
 pandas
+openpyxl
