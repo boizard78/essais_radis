@@ -1,0 +1,4 @@
+https://github.com/boizard78/essais_radis/tree/main/notebooks
+http://localhost:8888/lab/tree/OneDrive%20-%20envea/Bureau/radis_binder/notebooks/combinaisons_Spectr.ipynb
+https://hub.2i2c.mybinder.org/user/boizard78-essais_radis-61zvozpg/doc/tree/notebooks/combinaisons_Spectr.ipynb
+https://hub.2i2c.mybinder.org/user/boizard78-essais_radis-6uo61d9r/doc/workspaces/auto-x/tree/notebooks/combinaisons_Spectr.ipynb
